@@ -1,5 +1,4 @@
 # --- For-Bot-Working --------- #
-pyrofork
 pyrogram
 TgCrypto
 pyromod
