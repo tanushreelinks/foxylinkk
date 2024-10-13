@@ -29,7 +29,7 @@ PORT = os.environ.get("PORT", "8087")
 
 #Database 
 DB_URI = "mongodb+srv://Subhashreetoken:Lord4gent@subhashreetoken.hepjw.mongodb.net/?retryWrites=true&w=majority&appName=Subhashreetoken"
-DB_NAME = os.environ.get("DATABASE_NAME", "nxx")
+DB_NAME = os.environ.get("DATABASE_NAME", "Subhashreetoken")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "cc2f887a97acfde839f044c538731c474179b7d4")
