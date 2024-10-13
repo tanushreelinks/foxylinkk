@@ -31,8 +31,8 @@ PORT = os.environ.get("PORT", "8087")
 DB_URI = "mongodb+srv://Subhashreetoken:Lord4gent@subhashreetoken.hepjw.mongodb.net/?retryWrites=true&w=majority&appName=Subhashreetoken"
 DB_NAME = os.environ.get("DATABASE_NAME", "nxx")
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "publicearn.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "54335b798ddf24239b147c499daeb1f629951839")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "inshorturl.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "cc2f887a97acfde839f044c538731c474179b7d4")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 21600)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","https://youtu.be/1A3C0xnLDfc?si=6dWwf7YlgmbKztZ1")
