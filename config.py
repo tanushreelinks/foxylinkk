@@ -53,7 +53,7 @@ except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
 #Force sub message 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>You need to join in my Channel/Group https://t.me/+OybAqfXxT5E1ZjA1 to use me\n\nKindly Please join Channel<https://t.me/+OybAqfXxT5E1ZjA1>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>You need to join in my Channel/Group https://t.me/+OybAqfXxT5E1ZjA1 to use me\n\nKindly Please join Channel<-1002488839738>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "This video/Photo/anything is available on the internet. We LeakHubd or its subsidiary channel doesn't produce any of them.")
